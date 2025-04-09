@@ -59,6 +59,6 @@ secure API endpoints
 **Frontend Setup**
 
 
-    cd frontend
+    cd client
     npm install
     npm run dev
