@@ -1,0 +1,33 @@
+.item-card
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.item-card-det-1
+{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.img-con
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 440px;
+    height: 550px;
+}
+
+.img-con img
+{
+    object-fit: contain;
+    width: 400px;
+    height: 500px;
+    border-radius: 5px;
+    margin: 2px;
+}
+
